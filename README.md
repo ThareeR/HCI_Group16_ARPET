@@ -1,2 +1,2 @@
-# HCI_Group16_ARPET
-This repository includes a assets of a Human computer interaction AR PET project
+# HCI_Group16_AR_PET
+This repository includes assets of an AR PET project.
